@@ -103,7 +103,7 @@ This dashboard enables businesses to:
 
 ## 📷 Dashboard Preview
 
-*![Coffee Sales Dashboard](https://raw.githubusercontent.com/asmarguliyeva-droid/EXCEL-PROJECT/main/Dashboard%20View.png)
+*![Coffee Sales Dashboard](https://raw.githubusercontent.com/asmarheybatli/EXCEL-PROJECT/main/Dashboard%20View.png)
 
 ---
 
