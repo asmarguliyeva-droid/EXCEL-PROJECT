@@ -1,2 +1,2 @@
-# POWER-BI-PROJECT
-This Power BI project analyzes banking transaction data across the United States, providing insights into customer behavior, transaction patterns, ATM usage, and regional banking activity. The dashboard transforms raw banking data into interactive visualizations that support data-driven decision-making and operational analysis.
+# EXCEL-PROJECT
+This Excel dashboard project analyzes coffee sales data in Ukraine for 2024 and 2025. The dashboard provides a clear overview of sales performance, customer demand, seasonal sales trends, top clients, and price fluctuations across different coffee types.
