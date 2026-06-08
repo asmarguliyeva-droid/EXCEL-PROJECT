@@ -109,8 +109,10 @@ This dashboard enables businesses to:
 
 ## 👤 Author
 
-**Asmar Heybarli**
+**Asmar Heybatli**
 
 Data Analytics | Excel | Power BI | SQL | Python
 
-Feel free to connect and provide feedback on this project.
+## 🔗 Connect With Me
+
+- LinkedIn: (https://www.linkedin.com/in/asmar-guliyeva-heybatli-cert-cii-5781b71b7/)
