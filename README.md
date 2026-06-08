@@ -103,13 +103,13 @@ This dashboard enables businesses to:
 
 ## 📷 Dashboard Preview
 
-*
+*![Coffee Sales Dashboard](https://raw.githubusercontent.com/asmarguliyeva-droid/EXCEL-PROJECT/main/Dashboard%20View.png)
 
 ---
 
 ## 👤 Author
 
-**Asmar Guliyeva**
+**Asmar Heybarli**
 
 Data Analytics | Excel | Power BI | SQL | Python
 
